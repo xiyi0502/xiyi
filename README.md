@@ -7,4 +7,4 @@
 - [GitHub + Markdown notes](GitHub_Markdown.pptx)
 
 ## ✨ My homepage
-Welcome to visit 👉 [https://xiwenyang.github.io](https://xiwenyang.github.io)
+Welcome to visit 👉 [[https://xiwenyang.github.io](https://xiwenyang.github.io](https://github.com/xiyi0502))
